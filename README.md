@@ -35,7 +35,7 @@ Here's a walkthrough:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Additional work pending. This is a barebones implementation.
 
 ## License
 
